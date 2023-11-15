@@ -1,6 +1,6 @@
 **Privacy Policy**
 
-Ministerio de Espacio Publico e Higiene Urbana built the SIGEP Mobile app as a Free app. This SERVICE is provided by Ministerio de Espacio Publico e Higiene Urbana at no cost and is intended for use as is.
+SIGEP built the SIGEP Mobile app as a Free app. This SERVICE is provided by SIGEP at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
@@ -18,7 +18,7 @@ Link to privacy policy of third party service providers used by the app
 
 *   [Google Play Services](https://www.google.com/policies/privacy/)
 *   [Expo](https://expo.io/privacy)
-*   [Sentry](https://sentry.io/privacy/)
+*   [Bugsnag]([https://sentry.io/privacy/](https://smartbear.com/privacy/))
 
 **Log Data**
 
